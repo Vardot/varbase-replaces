@@ -27,6 +27,10 @@
     "npm-asset/nouislider": "*",
     "npm-asset/rtseo.js": "*",
     "bower-asset/jquery": "*",
-    "bower-asset/jquery-ui": "*"
+    "bower-asset/jquery-ui": "*",
+    "j7mbo/twitter-api-php": "*"
+  },
+  "require": {
+    "tzlion/deadend-api-php": "*"
   }
 }
