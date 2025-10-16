@@ -5,7 +5,6 @@
   "replace": {
     "jquery/fancytree": "*",
     "fancytree/fancytree": "*",
-    "drupal/openapi_rest": "*",
     "j7mbo/twitter-api-php": "*"
   },
   "require": {
